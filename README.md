@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sreeja Avadutha 👋</h1>
 
 <p align="center">
-  <b>QA & Software Test Engineer</b> · Telecom & Billing Domain · 2+ Years @ Amdocs<br/>
+  <b>QA & Software Test Engineer</b> · Telecom & Billing Domain · 2.5+ Years @ Amdocs<br/>
   📍 Hyderabad, India &nbsp;|&nbsp; 🔍 Open to QA / SDET roles — Hyderabad or Remote
 </p>
 
@@ -14,7 +14,7 @@
 
 ## 🧪 About Me
 
-I'm a results-driven **QA & Software Test Engineer** with 2+ years of experience delivering high-quality releases for the **US Cellular project at Amdocs** — one of the world's leading telecom software companies.
+I'm a results-driven **QA & Software Test Engineer** with 2.5+ years of experience delivering high-quality releases for the **US Cellular project at Amdocs** — one of the world's leading telecom software companies.
 
 - ✅ **2,000+ test cases** designed and executed across billing & CRM workflows
 - 📊 **96% test coverage** achieved; billing errors reduced by **15%**
