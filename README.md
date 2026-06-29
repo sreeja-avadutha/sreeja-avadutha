@@ -80,12 +80,16 @@ A billing tracker tool inspired by real-world telecom billing workflows. Demonst
 - 🤖 **AI for Everyone** — Coursera
 - 🧪 **AQE GenAI** — Foundational Level Assessment
 - 📊 **Power BI Masterclass from Scratch [2025]** — Udemy
+-     **Salesforce Certified Platform Administrator** - Udemy
+  
+
+
 
 ---
 
 ## 📫 Let's Connect
 
-I'm actively looking for **QA Engineer / SDET** roles in Hyderabad or Remote.
+I'm actively looking for **QA Engineer / SDET** roles in Hyderabad, Banglore or Remote.
 If you're hiring or know of an opening — let's talk!
 
 📧 avaduthasreeja29@gmail.com
